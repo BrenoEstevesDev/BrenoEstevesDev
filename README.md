@@ -1,13 +1,13 @@
 ﻿# Ola, eu sou o Breno Esteves
 
 <p align="left">
-  Desenvolvedor focado em criar aplicacoes web modernas, performaticas e com boa experiencia de uso.
+  Desenvolvedor focado em criar aplicações web modernas, performaticas e com boa experiencia de uso.
 </p>
 
 ## Sobre mim
 
 - Trabalho com desenvolvimento web full stack
-- Sempre estudando novas tecnologias e boas praticas
+- Sempre estudando novas tecnologias e boas práticas
 - Objetivo: construir produtos que resolvem problemas reais
 
 ## Tecnologias
@@ -28,11 +28,6 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" />
 </p>
-
-## Estatisticas GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrenoEstevesDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username==BrenoEstevesDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 ## Onde me encontrar
 
