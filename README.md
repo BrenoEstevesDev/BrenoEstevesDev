@@ -31,8 +31,8 @@
 
 ## Estatisticas GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brenoestevesdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenoestevesdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrenoEstevesDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username==BrenoEstevesDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 ## Onde me encontrar
 
